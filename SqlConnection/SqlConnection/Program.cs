@@ -33,9 +33,10 @@ Pwd=motdepasspasdutoutsecurise;";
                 while (rdr.Read())
                 {
                     Console.WriteLine("*************************************************************************");
-                    Console.WriteLine(rdr.GetString(1) + "\t" + rdr.GetString(4));
+                    Console.WriteLine(rdr.GetString(0) + "\t" + rdr.GetString(1));
 
                 }
+
 
             }
             catch (MySqlException ex)
