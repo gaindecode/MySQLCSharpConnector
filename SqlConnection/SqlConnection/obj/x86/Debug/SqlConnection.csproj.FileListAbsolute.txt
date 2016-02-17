@@ -1,0 +1,6 @@
+C:\Users\khalebiosbis\documents\visual studio 2010\Projects\SqlConnection\SqlConnection\bin\Debug\SqlConnection.exe.config
+C:\Users\khalebiosbis\documents\visual studio 2010\Projects\SqlConnection\SqlConnection\bin\Debug\SqlConnection.exe
+C:\Users\khalebiosbis\documents\visual studio 2010\Projects\SqlConnection\SqlConnection\bin\Debug\SqlConnection.pdb
+C:\Users\khalebiosbis\documents\visual studio 2010\Projects\SqlConnection\SqlConnection\obj\x86\Debug\SqlConnection.exe
+C:\Users\khalebiosbis\documents\visual studio 2010\Projects\SqlConnection\SqlConnection\obj\x86\Debug\SqlConnection.pdb
+C:\Users\khalebiosbis\documents\visual studio 2010\Projects\SqlConnection\SqlConnection\bin\Debug\MySql.Fabric.Plugin.dll
